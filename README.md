@@ -1,3 +1,6 @@
+## Demo
+https://estefaniaderosa.github.io/nuwescl1/
+
 ## Inicio
 Para comenzar a trabajar con el repositorio instalar los paquetes e iniciar la app:
 > npm install 
@@ -29,6 +32,9 @@ Para comenzar a trabajar con el repositorio instalar los paquetes e iniciar la a
 	 - index.js
 	 - reducers.js (Configuración de los reducers)
 
-##Calidad de Código CodeFactor: 
 
+## Calidad de Código CodeFactor:
 [![CodeFactor](https://www.codefactor.io/repository/github/estefaniaderosa/nuwescl1/badge)](https://www.codefactor.io/repository/github/estefaniaderosa/nuwescl1)
+ 
+
+ 
