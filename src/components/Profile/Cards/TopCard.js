@@ -246,7 +246,7 @@ export default function TopCard() {
   const [open, setOpen] = useState(false);
 
   useEffect(() => {
-    Axios.get('/data/skills.json')
+    Axios.get(process.env.PUBLIC_URL + '/data/skills.json')
       .then((response) => {
         setSkillsData(response.data);
       });
